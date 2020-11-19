@@ -1,4 +1,4 @@
-## Oh, hey there! 👋
+![Hi! I'm Mike](mike.png)
 
 <!--
 **mikez321/mikez321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
