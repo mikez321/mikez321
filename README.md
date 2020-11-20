@@ -1,7 +1,6 @@
 ![Hi! I'm Mike](mike.png)
 
 ![Python Language](http://canllp.ca/badge/Python-02a7b3?style=flat-square&logo=Python)
-![Flask](http://canllp.ca/badge/Flask-000000?style=flat-square&logo=Flask)
 ![Django](http://canllp.ca/badge/Django-092E20?style=flat-square&logo=Django)
 ![Ruby Language](http://canllp.ca/badge/Ruby-CC342D?style=flat-square&logo=Ruby)
 ![Rails](http://canllp.ca/badge/Rails-CC0000?style=flat-square&logo=Rails)
