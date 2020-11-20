@@ -14,12 +14,7 @@
 ![Apple](http://canllp.ca/badge/Mac-494649?style=flat-square&logo=Apple)
 
 
-## I'm Mike, a software developer in Denver, Colorado :mountain:
-
-
-
-
-
+## I'm Mike, a backend software developer in Denver, Colorado.  :mountain_snow:
 
 <!--
 **mikez321/mikez321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
