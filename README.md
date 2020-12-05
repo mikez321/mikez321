@@ -20,8 +20,7 @@
 
 - In my free time I've been enjoying learning about CSS and other front end things I didn't learn while learning Backend Engineering at the [Turing School of Software and Design](http://turing.io).  I've been applying my knowledge and having fun with [my own website.](https://mikez321.github.io) :sunglasses:
 
-- When I'm not doing anything mentioned :arrow_upper_left: :arrow_up: :arrow_upper_right: , I might be out hiking, riding, running, fishing, camping, or anything else of that sort that Colorado has to offer.
-
+- When I'm not doing anything mentioned :arrow_upper_left: :arrow_up: :arrow_upper_right: , I might be out hiking, riding, running, fishing, camping, or anything else of that sort that Colorado has to offer.  :mountain_snow:
 
 
 <!--
