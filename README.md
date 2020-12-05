@@ -12,6 +12,16 @@
 [![Heroku](http://canllp.ca/badge/Heroku-430098?style=flat-square&logo=Heroku)](https://mikez321.github.io)
 [![Fujitsu](http://canllp.ca/badge/HHKB-FF0000?style=flat-square&logo=Fujitsu)](https://mikez321.github.io)
 [![Apple](http://canllp.ca/badge/Mac-494649?style=flat-square&logo=Apple)](https://mikez321.github.io)
+# Glad you made it!
+
+- I'm working at [ReRent](http://rerent.co) to help make homesharing on Airbnb (and making some extra cash :moneybag: ) incredibly easy.
+
+- I'm currently learning and getting used to Django. :smile:
+
+- In my free time I've been enjoying learning about CSS and other front end things I didn't learn while learning Backend Engineering at the [Turing School of Software and Design](http://turing.io).  I've been applying my knowledge and having fun with [my own website.](https://mikez321.github.io) :sunglasses:
+
+- When I'm not doing anything mentioned :arrow_upper_left: :arrow_up: :arrow_upper_right: , I might be out hiking, riding, running, fishing, camping, or anything else of that sort that Colorado has to offer.
+
 
 
 <!--
