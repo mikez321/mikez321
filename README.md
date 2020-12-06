@@ -16,7 +16,7 @@
 
 - I'm working at [ReRent](http://rerent.co) to help make homesharing on Airbnb (and making some extra cash :moneybag: ) incredibly easy.
 
-- I'm currently learning and getting used to Django. :smile:
+- I'm currently writing Python code and using Django. :smile:
 
 - In my free time I've been enjoying learning about CSS and other front end things I didn't learn while learning Backend Engineering at the [Turing School of Software and Design](http://turing.io).  I've been applying my knowledge and having fun with [my own website.](https://mikez321.github.io) :sunglasses:
 
