@@ -22,7 +22,7 @@
 
 - When I'm not doing anything mentioned :arrow_upper_left: :arrow_up: :arrow_upper_right: , I might be out hiking, riding, running, fishing, camping, or anything else of that sort that Colorado has to offer.  :mountain_snow:
 
-- If you're into resumes that didn't come from a template or MS Word, check out [my latest one](mh212.pdf)!
+- If you're into resumes that didn't come from a template or MS Word, check out [my latest one](mh121.pdf)!
 
 
 <!--
