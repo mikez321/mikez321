@@ -14,13 +14,13 @@
 [![Apple](https://img.shields.io/badge/Mac-494649?style=flat-square&logo=Apple)](https://mikez321.github.io)
 # Glad you made it!
 
-- I'm a Python developer at [SRAM](https://www.sram.com/en/sram)!
+- I'm a Python developer at [SRAM](https://www.sram.com/en/sram) in [Spearfish, SD](https://visitspearfish.com/)!
 
 - I'm working in Django and Django REST Framework
 
-- While my focus on on backend development, I've recently been getting down on Javascript and Jquery
+- I'm stoked on backend development, but also am getting more and more comfortable with Javascript, JQuery and Ajax.
 
-- When I'm not writing code, I'm probably outside, or getting ready to move to [Spearfish, SD](https://visitspearfish.com/)!
+- When I'm not writing code, I'm probably outside, camping, hiking or riding my bike.
 
 - Love meeting new people, drop me a line on [LinkedIn](https://www.linkedin.com/in/mikez321/) or [shoot me an email](mailto:hernandezmichael321@gmail.com?subject=Hey%20Guy!%20I%20found%20you%20on%20Github!)!
 
